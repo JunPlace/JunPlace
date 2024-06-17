@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JunPlace
+- 👀 I’m Interested in Programming
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on nothing yet
+- 📫 How to reach me: just send messegege
+- ⚡ Fun fact: True programmers do programming because they love the process of writing code
